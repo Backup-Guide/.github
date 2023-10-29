@@ -1,5 +1,12 @@
 # SEMUA PRIVATE REPO DILARANG SHARE KELUAR
 
+## Apply Member?
+
+1. Install [Osu!](https://osu.ppy.sh/)
+2. Add [megumii](https://osu.ppy.sh/users/29234830)
+3. Invite lobby 1v1
+4. WIN = Member
+
 ---
 
 ---
